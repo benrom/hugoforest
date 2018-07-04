@@ -5,4 +5,4 @@ fields:
 - type: text
   name: Title
 pages:
-- content/the-test.md
+- content/the-test.fr.md
